@@ -1,0 +1,15 @@
+SENSITIVITY REPORT
+Student: Santarin
+Random Seed: 261865
+Selected Features: Feature_025, Feature_037, Feature_239, Feature_332, Feature_550
+Bootstrap Repetitions: 250
+Largest Change in Mean Difference: 0.1914 (Feature_550)
+Features with Changed Difference Sign: 0
+Features with Changed Ranking: 0
+Reproducibility Verified: True
+
+Interpretation:
+- Mean differences (Fail - Pass) were compared between available-case analysis and
+  median imputation using the full dataset.
+- Median imputation can shrink variability, so confidence intervals and rankings may shift.
+- Differences are descriptive and do not establish causes of manufacturing failure.

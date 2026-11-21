@@ -1,0 +1,6 @@
+Rank,Feature,Fail_Mean,Pass_Mean,Abs_Mean_Difference,Pooled_SD,Abs_Standardized_Mean_Difference
+1,Feature_429,3.7165,4.3551,0.6386,1.949,0.3276
+2,Feature_272,45.2876,42.5731,2.7145,16.0792,0.1688
+3,Feature_150,7.1284,7.451,0.3227,3.4526,0.0935
+4,Feature_018,189.9388,190.0859,0.1471,2.7959,0.0526
+5,Feature_310,0.3053,0.3056,0.0003,0.039,0.0083
